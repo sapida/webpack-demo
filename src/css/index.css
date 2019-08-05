@@ -1,0 +1,8 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: #24ce70 url('../images/11.png') no-repeat;
+    box-shadow: #24ce70;
+}
